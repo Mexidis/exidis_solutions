@@ -1,7 +1,7 @@
 
-  # One Page Digital Solutions Site
-
-  This is a code bundle for One Page Digital Solutions Site. The original project is available at https://www.figma.com/design/GhJiSyBuZDIfLtSzLl3ki0/One-Page-Digital-Solutions-Site.
+  # Exidis Solutions site
+  
+  Here is the code for the Exidis Solutions site.
 
   ## Running the code
 
